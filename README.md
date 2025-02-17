@@ -1,11 +1,9 @@
 # Hi there, I'm Yang! 👋
 Deep learning | Seismic Exploration | DAS Data Processing | AI for Science
 ### 🚀 About Me
-  🌱 Passionate about coding, open source, and AI.
-  
-  🔭 Master's student in Geophysics at KFUPM, foucusing on AI4GEO 
-  
-  📫 Exploring Neural Operators, siemsic processing, and wavefield simulation
+  1) 🌱 Passionate about coding, open source, and AI.
+  2) 🔭 Master's student in Geophysics at KFUPM, foucusing on AI4GEO 
+  3) 📫 Exploring Neural Operators, siemsic processing, and wavefield simulation
 
 
 ### 📊 Github States
