@@ -21,3 +21,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>  
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/username=cuiyang512/count.svg)
