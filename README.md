@@ -22,6 +22,4 @@
   </a>
 </p>  
 
-## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/username=cuiyang512/count.svg)
